@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\python.exe" "C:\Users\retzi\source\repos\RITHealthCheckup\RITHealthCheckup.py"
