@@ -13,7 +13,7 @@ try:
     driver = webdriver.Chrome(PATH)
     driver.get("https://dailyhealth.rit.edu/")
     username = "cel8473"
-    password = "Lgst6575!@#"
+    password = ""
 
     element = WebDriverWait(driver, 3).until(EC.presence_of_element_located((By.NAME, "j_username")))
     print("Entering Username")
